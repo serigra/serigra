@@ -24,7 +24,7 @@ I am part of the Research Data Team, where we are responsible for the technical 
 The research aims to establish an empirical foundation for optimized medication use and to enrich informed political discussions.
 Most of my work projects live on private repositories of my organization's version control platform.
 
-- By training, I am a biostatistician and biologist. 
+- By training, I am a biostatistician 🎓 and biologist 🎓. 
 
 - Since recently I am member of the organizing committee for the [Zurich R User Group](https://zurich-r-user-group.github.io/).
 
