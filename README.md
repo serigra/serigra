@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 
-- I am a data scientist and part of the health services research team of one of the biggest health insurance companies in Switzerland🇨🇭.
+- I am a data scientist & researcher and part of the health services research team of one of the biggest health insurance companies in Switzerland🇨🇭.
 I am part of the Research Data Team, where we are responsible for the technical infrastructure, extract and process data, conceptualize and implement statistical analyses, and collaborate with internal and external stakeholders on scientific publications and internal analytical projects.
 
 - I am interested in medication 💊 prescribing trends 📉, investigating factors that drive over- or under-prescription and their implications for health outcomes. 
