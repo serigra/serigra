@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌍 **Personal website:** [serigra.github.io](https://serigra.github.io/Webpage_Quarto/)
+🌍 [**Personal Website**](https://serigra.github.io/Webpage_Quarto/) 📚 [**Publications**](https://orcid.org/0009-0005-2128-0827) 🌟 [**LinkedIn**](https://orcid.org/0009-0005-2128-0827)
+
+
 
 - I am a data scientist and part of the health services research team of one of the biggest health insurance companies in Switzerland🇨🇭.
 I am part of the Research Data Team, where we are responsible for the technical infrastructure, extract and process data, conceptualize and implement statistical analyses, and collaborate with internal and external stakeholders on scientific publications and internal analytical projects.
