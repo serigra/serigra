@@ -24,7 +24,7 @@ I am part of the Research Data Team, where we are responsible for the technical 
 
 - I am interested in medication 💊 prescribing trends 📉, investigating factors that drive over- or under-prescription and their implications for health outcomes. 
 The research aims to establish an empirical foundation for optimized medication use and to enrich informed political discussions.
-Most of my work projects live on private repositories of my organization's version control platform.
+All my current work projects live on private repositories of my organization's version control platform.
 
 - By training, I am a biostatistician 🎓 and biologist 🎓. 
 
