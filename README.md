@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌍 [**Personal Website**](https://serigra.github.io/Webpage_Quarto/) 📚 [**Publications**](https://orcid.org/0009-0005-2128-0827) 🌟 [**LinkedIn**](https://orcid.org/0009-0005-2128-0827)
+🌍 [**Personal Website**](https://serigra.github.io/Webpage_Quarto/) 📚 [**Publications**](https://orcid.org/0009-0005-2128-0827) 🌟 [**LinkedIn**](https://www.linkedin.com/in/sereina-maria-graber-078701bb/)
 
 
 
