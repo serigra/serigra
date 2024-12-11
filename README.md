@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌍 [**Personal Website**](https://serigra.github.io/Webpage_Quarto/) 📚 [**Publications**](https://orcid.org/0009-0005-2128-0827) 🌟 [**LinkedIn**](https://www.linkedin.com/in/sereina-maria-graber-078701bb/)
-
+🌍 [**Personal Website**](https://serigra.github.io/Webpage_Quarto/) 🌟 [**LinkedIn**](https://www.linkedin.com/in/sereina-maria-graber-078701bb/)
+ 📚 [**Publications (ORCID)**](https://orcid.org/0009-0005-2128-0827) 📚 [**Publications (ResearchGate)**](https://www.researchgate.net/profile/Sereina-Graber)
 
 
 - I am a data scientist & researcher and part of the health services research team of one of the biggest health insurance companies in Switzerland🇨🇭.
