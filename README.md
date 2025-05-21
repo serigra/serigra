@@ -28,7 +28,7 @@ All my current work projects live on private repositories of my organization's v
 
 - By training, I am a biostatistician 🎓 and biologist 🎓. 
 
-- Since recently I am member of the organizing committee for the [Zurich R User Group](https://zurich-r-user-group.github.io/).
+- I am member of the organizing committee for the [Zurich R User Group](https://zurich-r-user-group.github.io/). Our goal is to connect R and data science enthusiasts through meetups that showcase a broad range of applications across diverse institutions and research fields.
 
 - My passion lies in R programming and expressing quantitative information using numbers 🎲, models 📈 and visual displays 📊.
 
